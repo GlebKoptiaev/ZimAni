@@ -1,0 +1,23 @@
+Verification performed 2026-10-09
+
+Firmware translation unit:
+  Arm GNU GCC 12.2.1 (20221205), Cortex-M4 Thumb, -O2,
+  -std=c11 -ffreestanding -DSTM32F429xx -Wall -Wextra -Werror.
+  Compiled main.c successfully to ARM object code using official ST
+  cmsis-device-f4 headers and Arm CMSIS_5 core headers.
+  Also passed host GCC C syntax checking.
+
+Host decoder:
+  python -m unittest -v test_reader.py
+  7 tests passed: received payload extraction excluding STATUS,
+  TX/register/ACK decoding, good capture, error flags, incomplete export,
+  count mismatch and unequal channel lengths.
+
+Not performed:
+  No STM32CubeMX/STM32CubeIDE execution in this environment.
+  No complete generated CubeIDE-project build/flash.
+  No NUCLEO hardware, electrical, timing or robot tests.
+  No claimed maximum SCK rate or minimum CSN gap validated on hardware.
+
+This package contains source files, not a prebuilt .elf/.bin or .ioc project.
+Follow README_RU.md to generate the vendor project and build it locally.
