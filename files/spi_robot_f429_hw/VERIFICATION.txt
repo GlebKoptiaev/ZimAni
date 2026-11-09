@@ -1,0 +1,19 @@
+Verification date: 2026-10-22
+Firmware: v2.0 HW; STM32F429xx / Cortex-M4.
+
+Actual main.c compiled successfully to an ARM object with:
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -std=c11 -O2 -ffreestanding -DSTM32F429xx -Icheck_headers -Wall -Wextra -Werror -c main.c -o main_hw.o
+check_headers contained official STM32F4 CMSIS device/core headers.
+No compilation warnings or errors.
+
+python3 -m unittest -v: 14 tests passed.
+- Original decoder cases: register, payload, status exclusion, length/count errors.
+- v2: cumulative SCK boundary count, no fabricated timestamps, malformed boundary rejection,
+  explicit timestamps=none, error flags rejected by default, empty CSN frames.
+- Actual pure C boundary validator extracted from main.c, compiled/executed with host gcc:
+  valid frames, empty frames, unaligned/decreasing/out-of-range boundaries and capacity limits.
+- Actual pure C LED functions extracted, compiled/executed: every error bit inhibits success.
+
+Not performed: full CubeIDE project link, flashing, electrical tests, real SPI capture,
+maximum-rate characterization. Host tests do not simulate DMA/timer/SPI hardware.
+This archive contains source replacement files, not a ready-to-flash binary.
