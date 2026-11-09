@@ -1,0 +1,498 @@
+
+Discarded input sections
+
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text          0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .data          0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss           0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text.Error_Handler
+                0x00000000       0x1c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .comment       0x00000000       0x27 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .text          0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .data          0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .bss           0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .text.z_crc16  0x00000000       0x40 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_macro   0x00000000      0xaa2 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_macro   0x00000000      0x34e /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_macro   0x00000000       0x58 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_macro   0x00000000       0x28 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .comment       0x00000000       0x27 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .text          0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .data          0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .bss           0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x70 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .rodata.APBPrescTable
+                0x00000000        0x8 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .rodata.AHBPrescTable
+                0x00000000       0x10 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000      0xaa2 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x2e /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x28 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000      0x34e /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x1c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x22 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000      0x107 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000     0x1057 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000      0x11f /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000    0x17ff1 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x00000000       0x6d /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .comment       0x00000000       0x27 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .text          0x00000000       0x14 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+ .data          0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+ .bss           0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+ .group         0x00000000        0xc /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+ .text          0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+ .data          0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+ .bss           0x00000000        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+ .text.memcpy   0x00000000       0x14 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+ .debug_macro   0x00000000      0xaa2 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+ .comment       0x00000000       0x27 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00200000         xr
+RAM              0x20000000         0x00030000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+LOAD /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+LOAD /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+LOAD /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+LOAD /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+LOAD /workspace/scratch/85ba46678df3/toolchain/root/usr/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7e-m/nofp/libgcc.a
+                0x20030000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+
+.isr_vector     0x08000000      0x1ac
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1ac /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+                0x08000000                g_pfnVectors
+
+.text           0x080001ac     0x2698
+                0x080001ac                        . = ALIGN (0x4)
+ *(.text*)
+ .text.spi      0x080001ac       0x54 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text.uart_queue
+                0x08000200       0x54 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text.write_reg
+                0x08000254       0x60 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text.read_reg
+                0x080002b4       0x58 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text.read_many
+                0x0800030c       0x6c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text.number   0x08000378       0x78 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text.receive_payloads
+                0x080003f0      0x1e8 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text.open_receive
+                0x080005d8       0xf4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .text.SystemClock_Config
+                0x080006cc       0xb8 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+                0x080006cc                SystemClock_Config
+ .text.startup.main
+                0x08000784     0x1a74 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+                0x08000784                main
+ .text.z_stop   0x080021f8       0x1c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+                0x080021f8                z_stop
+ .text.z_init   0x08002214       0x1c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+                0x08002214                z_init
+ .text.z_link   0x08002230        0x8 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+                0x08002230                z_link
+ .text.z_tick   0x08002238       0x70 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+                0x08002238                z_tick
+ .text.z_accept
+                0x080022a8      0x29c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+                0x080022a8                z_accept
+ .text.z_payload
+                0x08002544       0xc8 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+                0x08002544                z_payload
+ .text.z_reply_valid
+                0x0800260c       0x58 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+                0x0800260c                z_reply_valid
+ .text.SystemInit
+                0x08002664       0x10 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+                0x08002664                SystemInit
+ .text.Reset_Handler
+                0x08002674       0x50 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+                0x08002674                Reset_Handler
+ .text.Default_Handler
+                0x080026c4        0x2 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+                0x080026c4                RTC_Alarm_IRQHandler
+                0x080026c4                HASH_RNG_IRQHandler
+                0x080026c4                EXTI2_IRQHandler
+                0x080026c4                TIM8_CC_IRQHandler
+                0x080026c4                DebugMon_Handler
+                0x080026c4                UART8_IRQHandler
+                0x080026c4                SPI4_IRQHandler
+                0x080026c4                TIM1_CC_IRQHandler
+                0x080026c4                DMA2_Stream5_IRQHandler
+                0x080026c4                HardFault_Handler
+                0x080026c4                DMA1_Stream5_IRQHandler
+                0x080026c4                SysTick_Handler
+                0x080026c4                PVD_IRQHandler
+                0x080026c4                SDIO_IRQHandler
+                0x080026c4                TAMP_STAMP_IRQHandler
+                0x080026c4                PendSV_Handler
+                0x080026c4                NMI_Handler
+                0x080026c4                CAN2_RX1_IRQHandler
+                0x080026c4                EXTI3_IRQHandler
+                0x080026c4                TIM8_TRG_COM_TIM14_IRQHandler
+                0x080026c4                TIM1_UP_TIM10_IRQHandler
+                0x080026c4                TIM8_UP_TIM13_IRQHandler
+                0x080026c4                I2C3_ER_IRQHandler
+                0x080026c4                EXTI0_IRQHandler
+                0x080026c4                I2C2_EV_IRQHandler
+                0x080026c4                DMA1_Stream2_IRQHandler
+                0x080026c4                CAN1_RX0_IRQHandler
+                0x080026c4                FPU_IRQHandler
+                0x080026c4                OTG_HS_WKUP_IRQHandler
+                0x080026c4                UsageFault_Handler
+                0x080026c4                LTDC_ER_IRQHandler
+                0x080026c4                CAN2_SCE_IRQHandler
+                0x080026c4                DMA2_Stream2_IRQHandler
+                0x080026c4                SPI1_IRQHandler
+                0x080026c4                TIM6_DAC_IRQHandler
+                0x080026c4                TIM1_BRK_TIM9_IRQHandler
+                0x080026c4                DCMI_IRQHandler
+                0x080026c4                CAN2_RX0_IRQHandler
+                0x080026c4                DMA2_Stream3_IRQHandler
+                0x080026c4                USART6_IRQHandler
+                0x080026c4                USART3_IRQHandler
+                0x080026c4                CAN1_RX1_IRQHandler
+                0x080026c4                UART5_IRQHandler
+                0x080026c4                DMA2_Stream0_IRQHandler
+                0x080026c4                TIM4_IRQHandler
+                0x080026c4                I2C1_EV_IRQHandler
+                0x080026c4                DMA1_Stream6_IRQHandler
+                0x080026c4                DMA1_Stream1_IRQHandler
+                0x080026c4                UART4_IRQHandler
+                0x080026c4                TIM3_IRQHandler
+                0x080026c4                RCC_IRQHandler
+                0x080026c4                TIM8_BRK_TIM12_IRQHandler
+                0x080026c4                Default_Handler
+                0x080026c4                EXTI15_10_IRQHandler
+                0x080026c4                ADC_IRQHandler
+                0x080026c4                DMA1_Stream7_IRQHandler
+                0x080026c4                SPI5_IRQHandler
+                0x080026c4                TIM7_IRQHandler
+                0x080026c4                CAN2_TX_IRQHandler
+                0x080026c4                TIM5_IRQHandler
+                0x080026c4                DMA2_Stream7_IRQHandler
+                0x080026c4                I2C3_EV_IRQHandler
+                0x080026c4                EXTI9_5_IRQHandler
+                0x080026c4                RTC_WKUP_IRQHandler
+                0x080026c4                LTDC_IRQHandler
+                0x080026c4                ETH_WKUP_IRQHandler
+                0x080026c4                SPI2_IRQHandler
+                0x080026c4                OTG_HS_EP1_IN_IRQHandler
+                0x080026c4                MemManage_Handler
+                0x080026c4                DMA1_Stream0_IRQHandler
+                0x080026c4                CAN1_TX_IRQHandler
+                0x080026c4                SVC_Handler
+                0x080026c4                EXTI4_IRQHandler
+                0x080026c4                ETH_IRQHandler
+                0x080026c4                OTG_HS_EP1_OUT_IRQHandler
+                0x080026c4                WWDG_IRQHandler
+                0x080026c4                SPI6_IRQHandler
+                0x080026c4                TIM2_IRQHandler
+                0x080026c4                OTG_FS_WKUP_IRQHandler
+                0x080026c4                TIM1_TRG_COM_TIM11_IRQHandler
+                0x080026c4                OTG_HS_IRQHandler
+                0x080026c4                DMA2D_IRQHandler
+                0x080026c4                EXTI1_IRQHandler
+                0x080026c4                UART7_IRQHandler
+                0x080026c4                USART2_IRQHandler
+                0x080026c4                I2C2_ER_IRQHandler
+                0x080026c4                DMA2_Stream1_IRQHandler
+                0x080026c4                CAN1_SCE_IRQHandler
+                0x080026c4                FLASH_IRQHandler
+                0x080026c4                DMA2_Stream4_IRQHandler
+                0x080026c4                BusFault_Handler
+                0x080026c4                USART1_IRQHandler
+                0x080026c4                OTG_FS_IRQHandler
+                0x080026c4                SPI3_IRQHandler
+                0x080026c4                DMA1_Stream4_IRQHandler
+                0x080026c4                I2C1_ER_IRQHandler
+                0x080026c4                FMC_IRQHandler
+                0x080026c4                DMA2_Stream6_IRQHandler
+                0x080026c4                SAI1_IRQHandler
+                0x080026c4                DMA1_Stream3_IRQHandler
+ *fill*         0x080026c6        0x2 
+ .text.__libc_init_array
+                0x080026c8        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+                0x080026c8                __libc_init_array
+ .text.memset   0x080026cc       0x14 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+                0x080026cc                memset
+ *(.rodata*)
+ .rodata.main.str1.4
+                0x080026e0      0x147 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ *fill*         0x08002827        0x1 
+ .rodata.addr.0
+                0x08002828        0x5 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ *fill*         0x0800282d        0x3 
+ .rodata.probe.1
+                0x08002830        0x5 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ *fill*         0x08002835        0x3 
+ .rodata.header.1
+                0x08002838        0x9 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ *(.init)
+ *(.fini)
+                0x08002844                        . = ALIGN (0x4)
+ *fill*         0x08002841        0x3 
+
+.glue_7         0x08002844        0x0
+ .glue_7        0x08002844        0x0 linker stubs
+
+.glue_7t        0x08002844        0x0
+ .glue_7t       0x08002844        0x0 linker stubs
+
+.vfp11_veneer   0x08002844        0x0
+ .vfp11_veneer  0x08002844        0x0 linker stubs
+
+.v4_bx          0x08002844        0x0
+ .v4_bx         0x08002844        0x0 linker stubs
+
+.iplt           0x08002844        0x0
+ .iplt          0x08002844        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+
+.rel.dyn        0x08002844        0x0
+ .rel.iplt      0x08002844        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x08002844        0x0
+                0x08002844                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x08002844                        __exidx_end = .
+                0x08002844                        _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x4 load address 0x08002844
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+                0x20000000                SystemCoreClock
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _edata = .
+
+.igot.plt       0x20000004        0x0 load address 0x08002848
+ .igot.plt      0x20000004        0x0 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+
+.bss            0x20000004      0x928 load address 0x08002848
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _sbss = .
+ *(.bss*)
+ .bss.slen      0x20000004        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.status_line
+                0x20000008      0x280 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.next_init
+                0x20000288        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.next_poll
+                0x2000028c        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.pulse_end
+                0x20000290        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.tx_started
+                0x20000294        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.next_tx   0x20000298        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.radio_state
+                0x2000029c        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.last_reply_us
+                0x200002a0        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.reply_seen
+                0x200002a4        0x1 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ *fill*         0x200002a5        0x3 
+ .bss.last_reply
+                0x200002a8       0x17 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.last_status
+                0x200002bf        0x1 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.spi_ok    0x200002c0        0x1 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.radio_ok  0x200002c1        0x1 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ *fill*         0x200002c2        0x2 
+ .bss.spi_errors
+                0x200002c4        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.bad_reply_count
+                0x200002c8        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.reply_count
+                0x200002cc        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.fail_count
+                0x200002d0        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.ack_count
+                0x200002d4        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.uart_errors
+                0x200002d8        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.host_used
+                0x200002dc        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.tx_out    0x200002e0        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.tx_in     0x200002e4        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.rx_pos    0x200002e8        0x4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.host_frame
+                0x200002ec       0x16 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ *fill*         0x20000302        0x2 
+ .bss.uart_tx   0x20000304      0x400 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.uart_rx   0x20000704      0x200 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .bss.control   0x20000904       0x28 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ *(COMMON)
+                0x2000092c                        . = ALIGN (0x4)
+                0x2000092c                        _ebss = .
+
+.heap_stack     0x2000092c     0x1004 load address 0x08002848
+                0x20000930                        . = ALIGN (0x8)
+ *fill*         0x2000092c        0x4 
+                0x20000930                        end = .
+                0x20000930                        _end = .
+                0x20001930                        . = (. + 0x1000)
+ *fill*         0x20000930     0x1000 
+                0x20001930                        . = ALIGN (0x8)
+
+/DISCARD/
+ *(.comment)
+ *(.note*)
+                0x00000001                        ASSERT (((_ebss + 0x1000) <= _estack), RAM overflow)
+OUTPUT(/workspace/scratch/85ba46678df3/zimani_sender_v4/build/ZIMANI_TX_v4.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x2e /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .ARM.attributes
+                0x0000002e       0x2e /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .ARM.attributes
+                0x0000005c       0x2e /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .ARM.attributes
+                0x0000008a       0x21 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+ .ARM.attributes
+                0x000000ab       0x2e /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+.debug_info     0x00000000     0x631d
+ .debug_info    0x00000000     0x537a /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_info    0x0000537a      0x905 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_info    0x00005c7f      0x526 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_info    0x000061a5       0x30 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+ .debug_info    0x000061d5      0x148 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+.debug_abbrev   0x00000000      0xa6c
+ .debug_abbrev  0x00000000      0x58c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_abbrev  0x0000058c      0x2b9 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_abbrev  0x00000845      0x121 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_abbrev  0x00000966       0x24 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+ .debug_abbrev  0x0000098a       0xe2 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+.debug_loclists
+                0x00000000     0x275d
+ .debug_loclists
+                0x00000000     0x1f0b /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_loclists
+                0x00001f0b      0x70d /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_loclists
+                0x00002618       0x7b /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_loclists
+                0x00002693       0xca /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+.debug_aranges  0x00000000      0x148
+ .debug_aranges
+                0x00000000       0x70 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_aranges
+                0x00000070       0x58 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_aranges
+                0x000000c8       0x28 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_aranges
+                0x000000f0       0x28 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+ .debug_aranges
+                0x00000118       0x30 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+.debug_rnglists
+                0x00000000     0x1156
+ .debug_rnglists
+                0x00000000     0x105a /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_rnglists
+                0x0000105a       0xab /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_rnglists
+                0x00001105       0x19 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_rnglists
+                0x0000111e       0x19 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+ .debug_rnglists
+                0x00001137       0x1f /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+.debug_macro    0x00000000    0x1a4ee
+ .debug_macro   0x00000000       0xa9 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x000000a9      0xaa2 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x00000b4b       0x2e /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x00000b79       0x28 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x00000ba1      0x34e /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x00000eef       0x1c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x00000f0b       0x22 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x00000f2d      0x107 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x00001034     0x1057 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x0000208b      0x11f /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x000021aa    0x17ff1 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x0001a19b       0x6d /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x0001a208       0x58 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x0001a260       0x28 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_macro   0x0001a288       0x32 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_macro   0x0001a2ba       0x91 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_macro   0x0001a34b       0x1a /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+ .debug_macro   0x0001a365      0x189 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+.debug_line     0x00000000     0x4e06
+ .debug_line    0x00000000     0x3f0f /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_line    0x00003f0f      0xaa4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_line    0x000049b3      0x271 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_line    0x00004c24       0x7a /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+ .debug_line    0x00004c9e      0x168 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+.debug_str      0x00000000    0x940d8
+ .debug_str     0x00000000    0x93b4c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+                              0x93cf1 (size before relaxing)
+ .debug_str     0x00093b4c       0x86 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+                               0x3bde (size before relaxing)
+ .debug_str     0x00093bd2      0x144 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+                              0x936b1 (size before relaxing)
+ .debug_str     0x00093d16       0x7b /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o
+                                 0x9b (size before relaxing)
+ .debug_str     0x00093d91      0x347 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+                               0x3163 (size before relaxing)
+
+.debug_frame    0x00000000      0x2a0
+ .debug_frame   0x00000000      0x15c /workspace/scratch/85ba46678df3/zimani_sender_v4/build/main.o
+ .debug_frame   0x0000015c       0xd4 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/zimani_control.o
+ .debug_frame   0x00000230       0x30 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/system_stm32f4xx.o
+ .debug_frame   0x00000260       0x40 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/runtime.o
+
+.debug_line_str
+                0x00000000       0x81
+ .debug_line_str
+                0x00000000       0x81 /workspace/scratch/85ba46678df3/zimani_sender_v4/build/startup_stm32f429xx.o

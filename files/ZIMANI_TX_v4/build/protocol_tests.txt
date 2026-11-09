@@ -1,0 +1,32 @@
+test_adjust_with_engine_off_latches_stop (__main__.Tests.test_adjust_with_engine_off_latches_stop) ... ok
+test_all_old_and_new_capture_vectors (__main__.Tests.test_all_old_and_new_capture_vectors) ... ok
+test_arm_must_be_neutral (__main__.Tests.test_arm_must_be_neutral) ... ok
+test_arm_never_implicitly_resets_stop (__main__.Tests.test_arm_never_implicitly_resets_stop) ... ok
+test_boot_stop_payload (__main__.Tests.test_boot_stop_payload) ... ok
+test_button_radio_uart_stops (__main__.Tests.test_button_radio_uart_stops) ... ok
+test_crc_python_c (__main__.Tests.test_crc_python_c) ... ok
+test_disarm_latches_stop (__main__.Tests.test_disarm_latches_stop) ... ok
+test_drive_and_engine_adjust (__main__.Tests.test_drive_and_engine_adjust) ... ok
+test_engine_change_new_non_neutral_latches_stop (__main__.Tests.test_engine_change_new_non_neutral_latches_stop) ... ok
+test_engine_change_under_load_latches_stop (__main__.Tests.test_engine_change_under_load_latches_stop) ... ok
+test_host_timeout_no_resume (__main__.Tests.test_host_timeout_no_resume) ... ok
+test_invalid_ranges_and_reserved_bits (__main__.Tests.test_invalid_ranges_and_reserved_bits) ... ok
+test_link_timeout_no_resume (__main__.Tests.test_link_timeout_no_resume) ... ok
+test_new_session_requires_stop (__main__.Tests.test_new_session_requires_stop) ... ok
+test_new_session_stop_cannot_auto_release (__main__.Tests.test_new_session_stop_cannot_auto_release) ... ok
+test_random_state_invariants (__main__.Tests.test_random_state_invariants) ... ok
+test_release_requires_link (__main__.Tests.test_release_requires_link) ... ok
+test_release_then_arm (__main__.Tests.test_release_then_arm) ... ok
+test_released_but_unarmed_times_out (__main__.Tests.test_released_but_unarmed_times_out) ... ok
+test_reset_must_be_neutral (__main__.Tests.test_reset_must_be_neutral) ... ok
+test_reset_while_armed_latches_stop (__main__.Tests.test_reset_while_armed_latches_stop) ... ok
+test_stale_and_bad_frames_do_not_refresh (__main__.Tests.test_stale_and_bad_frames_do_not_refresh) ... ok
+test_stop_dominates_every_other_valid_field (__main__.Tests.test_stop_dominates_every_other_valid_field) ... ok
+test_v1_rejected_even_with_valid_crc (__main__.Tests.test_v1_rejected_even_with_valid_crc) ... ok
+test_wraparound (__main__.Tests.test_wraparound) ... ok
+
+----------------------------------------------------------------------
+Ran 26 tests in 0.086s
+
+OK
+Exact TX vectors: 1399 old + 803 clean new + 63 partial prefix = 2265. Valid RX: 2120; corruptions rejected.

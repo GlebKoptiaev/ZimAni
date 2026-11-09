@@ -1,0 +1,18 @@
+The supplied ARM executable includes STMicroelectronics STM32F4 CMSIS device
+startup/system code and uses Arm CMSIS core headers.
+
+STMicroelectronics cmsis-device-f4:
+Copyright (c) 2017 STMicroelectronics. All rights reserved.
+https://github.com/STMicroelectronics/cmsis-device-f4
+License: Apache-2.0; see ST_CMSIS_DEVICE_F4_LICENSE.md.
+The ST startup/system source used in the prebuilt image was not modified.
+
+Arm CMSIS core:
+Copyright (c) 2009-2023 Arm Limited. All rights reserved.
+https://github.com/ARM-software/CMSIS_5
+License: Apache-2.0; see ARM_CMSIS_LICENSE.txt.
+The CMSIS core headers used in the prebuilt image were not modified.
+
+CubeIDE builds use the CMSIS/device/startup files supplied by the user's
+STM32Cube project. Those files retain their own notices and licenses.
+Python/pySerial/Tk are separately installed dependencies and are not bundled.
