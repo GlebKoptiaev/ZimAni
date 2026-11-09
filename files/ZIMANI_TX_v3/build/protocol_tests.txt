@@ -1,0 +1,20 @@
+test_all_original_captures (__main__.Tests.test_all_original_captures) ... ok
+test_arm_requires_radio_and_neutral (__main__.Tests.test_arm_requires_radio_and_neutral) ... ok
+test_bad_crc_duplicate_and_old_sequence_do_not_refresh (__main__.Tests.test_bad_crc_duplicate_and_old_sequence_do_not_refresh) ... ok
+test_boot_rejects_armed_new_session (__main__.Tests.test_boot_rejects_armed_new_session) ... ok
+test_commands_roundtrip_and_disarm (__main__.Tests.test_commands_roundtrip_and_disarm) ... ok
+test_counter_wrap (__main__.Tests.test_counter_wrap) ... ok
+test_crc_known_vector_and_python_c (__main__.Tests.test_crc_known_vector_and_python_c) ... ok
+test_host_timeout_and_no_automatic_resume (__main__.Tests.test_host_timeout_and_no_automatic_resume) ... ok
+test_link_timeout_while_host_alive (__main__.Tests.test_link_timeout_while_host_alive) ... ok
+test_other_session_requires_disarmed_frame (__main__.Tests.test_other_session_requires_disarmed_frame) ... ok
+test_out_of_range_rejected_even_valid_crc (__main__.Tests.test_out_of_range_rejected_even_valid_crc) ... ok
+test_p9_change_requires_disarm (__main__.Tests.test_p9_change_requires_disarm) ... ok
+test_payload_known_neutral (__main__.Tests.test_payload_known_neutral) ... ok
+test_status_parse (__main__.Tests.test_status_parse) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.012s
+
+OK
+Original captures: 1399 TX exact matches; 1379 RX checksums accepted and corruptions rejected.

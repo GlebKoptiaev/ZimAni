@@ -1,0 +1,12 @@
+test_arm_waits_for_board_and_sends_controls (__main__.Tests.test_arm_waits_for_board_and_sends_controls) ... ok
+test_board_disarm_requires_new_arm (__main__.Tests.test_board_disarm_requires_new_arm) ... ok
+test_center_disabled_sliders (__main__.Tests.test_center_disabled_sliders) ... ok
+test_close_port_even_if_write_fails (__main__.Tests.test_close_port_even_if_write_fails) ... ok
+test_event_loop_pause_disarms (__main__.Tests.test_event_loop_pause_disarms) ... ok
+test_no_fresh_status_no_arm (__main__.Tests.test_no_fresh_status_no_arm) ... ok
+test_old_disarmed_status_does_not_cancel_pending_arm (__main__.Tests.test_old_disarmed_status_does_not_cancel_pending_arm) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 2.372s
+
+OK
