@@ -1,0 +1,13 @@
+Version 1.2 DIAG, 2026-10-22
+
+ARM GCC 12.2.1: Cortex-M4, Thumb, soft float, C11, -O2, freestanding,
+STM32F429xx, official ST/CMSIS headers, -Wall -Wextra -Werror.
+main.c compiled to object successfully, no warnings.
+No complete CubeIDE project link or physical-board test performed.
+
+Existing 7 decoder tests and 1 pure LED C test pass.
+Diagnostic version LED pure functions match the tested functions.
+Additional decoder check: #FAULT metadata is accepted in version=1;
+nonzero capture flags are still rejected by default.
+TIM2 pulse measurement requires hardware validation on the target.
+No claim that the repeated boundary error is fixed by this diagnostic build.
