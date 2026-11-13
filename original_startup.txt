@@ -1,0 +1,5 @@
+ARMING: all CSN high, SCK low
+#BEGIN version=2 reason=WINDOW flags=0x00000000 frames=0 complete_bytes=0 raw_mosi=0 raw_miso=0 raw_frames=0 total_sck=0 timestamps=none
+#F,index,end_sck,MOSI_hex,MISO_hex
+#END
+READY
