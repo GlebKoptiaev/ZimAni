@@ -1,6 +1,0 @@
-ARMING: all CSN high, SCK low
-#BEGIN version=3 reason=ERROR flags=0x00000084 frames=0 complete_bytes=0 raw_mosi=16949 raw_miso=0 raw_frames=0 total_sck=135592 raw_times=0 timestamps=exti3_tim5_us latency=isr not_synchronized=1
-#F,index,end_sck,end_us,MOSI_hex,MISO_hex
-#ERROR raw_boundaries_prefix=
-#END
-READY
