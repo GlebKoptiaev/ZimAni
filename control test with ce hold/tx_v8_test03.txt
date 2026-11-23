@@ -1,0 +1,90 @@
+#host_start=2026-11-23T12:40:22.091+00:00
+#source=ZIMANI_TX_v8_CE_HOLD port=COM9 baud=230400 count=3
+2026-11-23T12:40:22.096+00:00 D CMD us=602483553 id=10 ok=1 active=0 radio=0 ce=0 sent=10 target=10 safe=1 idle_no_tx=1
+2026-11-23T12:40:22.304+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=4 fail=6 rx=6 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=86499 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:22.746+00:00 D STAT us=603135181 id=10 ack=4 fail=6 done=10 timeout=0 recoveries=7 recovered_acks=1 round_maxrt=13 rx=6 rx_all=6 badrx=0 spi_err=0 uart_drop=0 safe=1 active=0 ce=0 sent=10 target=10
+2026-11-23T12:40:22.799+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=4 fail=6 rx=6 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=86999 reply=BBF8C42000434E1D0434170100000000000000000095ED
+#host_command=2026-11-23T12:40:23.130+00:00 TEST 3
+2026-11-23T12:40:23.141+00:00 D INIT us=603537733 id=10 ok=1 cfg=0B enaa=01 feat=07 dyn=01 ch=45 rf=23 retr=F3
+2026-11-23T12:40:23.148+00:00 D BEGIN us=603537851 id=10 count=3 spacing_us=80000 rx_us=10000 timeout_us=35000 recovery_max=1 attempts_max=2 ce_hold=1 retry_edge=0 safe=1 idle_no_tx=1 stop_only=1
+2026-11-23T12:40:23.152+00:00 D TX us=603543067 id=11 ce=1 pay=AAF8C42000434E1D04020000000064000000000000010001A0ED
+2026-11-23T12:40:23.157+00:00 D SNAP us=603543516 id=11 attempt=1 age=449 st=0E obs=03 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=0
+2026-11-23T12:40:23.161+00:00 D SNAP us=603544145 id=11 attempt=1 age=1078 st=0E obs=03 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=0
+2026-11-23T12:40:23.166+00:00 D SNAP us=603546244 id=11 attempt=1 age=3177 st=0E obs=00 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=0 plos=0
+2026-11-23T12:40:23.171+00:00 D SNAP us=603550233 id=11 attempt=1 age=7166 st=0E obs=01 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=1 plos=0
+2026-11-23T12:40:23.176+00:00 D SNAP us=603555272 id=11 attempt=1 age=12205 st=0E obs=02 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=0
+2026-11-23T12:40:23.180+00:00 D SNAP us=603560101 id=11 attempt=1 age=17034 st=0E obs=02 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=0
+2026-11-23T12:40:23.185+00:00 D SNAP us=603562620 id=11 attempt=1 age=19553 st=0E obs=03 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=0
+2026-11-23T12:40:23.190+00:00 D ROUND us=603564299 id=11 attempt=1 ce=1 r=MAX_RT dt=21232 st=1E obs=13 arc=3 plos=1 fifo=01 rxdr=0
+2026-11-23T12:40:23.196+00:00 D RETRY us=603564388 id=11 attempt=2 reused_fifo=1 fresh_payload=0 mode=CE_HOLD ce_before=1 ce_after=1 no_ce_edge=1 fifo_before=01 st_after_clear=0E
+2026-11-23T12:40:23.201+00:00 D SNAP us=603564807 id=11 attempt=2 age=419 st=0E obs=13 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=1
+2026-11-23T12:40:23.205+00:00 D SNAP us=603565436 id=11 attempt=2 age=1048 st=0E obs=13 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=1
+2026-11-23T12:40:23.210+00:00 D SNAP us=603567535 id=11 attempt=2 age=3147 st=0E obs=10 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=0 plos=1
+2026-11-23T12:40:23.215+00:00 D SNAP us=603571524 id=11 attempt=2 age=7136 st=0E obs=11 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=1 plos=1
+2026-11-23T12:40:23.219+00:00 D SNAP us=603576563 id=11 attempt=2 age=12175 st=0E obs=12 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=1
+2026-11-23T12:40:23.224+00:00 D SNAP us=603581392 id=11 attempt=2 age=17004 st=0E obs=12 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=1
+2026-11-23T12:40:23.229+00:00 D SNAP us=603583911 id=11 attempt=2 age=19523 st=0E obs=13 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=1
+2026-11-23T12:40:23.234+00:00 D ROUND us=603585590 id=11 attempt=2 ce=1 r=MAX_RT dt=21202 st=1E obs=23 arc=3 plos=2 fifo=01 rxdr=0
+2026-11-23T12:40:23.238+00:00 D DONE us=603585644 id=11 r=MAX_RT ce=1 attempts=2 recovered=0 dt=42577 st=1E obs=23 arc=3 plos=2 fifo=01 rxdr=0
+2026-11-23T12:40:23.278+00:00 D TX us=603676006 id=12 ce=1 pay=AAF8C42000434E1D04020000000064000000000000010001A0ED
+2026-11-23T12:40:23.283+00:00 D SNAP us=603676455 id=12 attempt=1 age=449 st=0E obs=23 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=2
+2026-11-23T12:40:23.287+00:00 D SNAP us=603677084 id=12 attempt=1 age=1078 st=0E obs=23 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=2
+2026-11-23T12:40:23.292+00:00 D SNAP us=603679183 id=12 attempt=1 age=3177 st=0E obs=20 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=0 plos=2
+2026-11-23T12:40:23.297+00:00 D SNAP us=603683172 id=12 attempt=1 age=7166 st=0E obs=21 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=1 plos=2
+2026-11-23T12:40:23.310+00:00 S v=4 session=0 seq=0 armed=0 radio=1 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=1 rx=0 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=1 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=87499 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:23.315+00:00 D SNAP us=603688068 id=12 attempt=1 age=12062 st=0E obs=22 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=2
+2026-11-23T12:40:23.320+00:00 D SNAP us=603693107 id=12 attempt=1 age=17101 st=0E obs=23 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=2
+2026-11-23T12:40:23.324+00:00 D SNAP us=603695626 id=12 attempt=1 age=19620 st=0E obs=23 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=2
+2026-11-23T12:40:23.329+00:00 D ROUND us=603697305 id=12 attempt=1 ce=1 r=MAX_RT dt=21299 st=1E obs=33 arc=3 plos=3 fifo=01 rxdr=0
+2026-11-23T12:40:23.335+00:00 D RETRY us=603697394 id=12 attempt=2 reused_fifo=1 fresh_payload=0 mode=CE_HOLD ce_before=1 ce_after=1 no_ce_edge=1 fifo_before=01 st_after_clear=0E
+2026-11-23T12:40:23.340+00:00 D SNAP us=603697813 id=12 attempt=2 age=419 st=0E obs=33 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=3
+2026-11-23T12:40:23.344+00:00 D SNAP us=603698442 id=12 attempt=2 age=1048 st=0E obs=33 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=3
+2026-11-23T12:40:23.349+00:00 D SNAP us=603700541 id=12 attempt=2 age=3147 st=0E obs=30 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=0 plos=3
+2026-11-23T12:40:23.354+00:00 D SNAP us=603704530 id=12 attempt=2 age=7136 st=0E obs=31 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=1 plos=3
+2026-11-23T12:40:23.359+00:00 D SNAP us=603709569 id=12 attempt=2 age=12175 st=0E obs=32 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=3
+2026-11-23T12:40:23.363+00:00 D SNAP us=603714398 id=12 attempt=2 age=17004 st=0E obs=32 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=3
+2026-11-23T12:40:23.368+00:00 D SNAP us=603716917 id=12 attempt=2 age=19523 st=0E obs=33 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=3
+2026-11-23T12:40:23.372+00:00 D ROUND us=603718596 id=12 attempt=2 ce=1 r=MAX_RT dt=21202 st=1E obs=43 arc=3 plos=4 fifo=01 rxdr=0
+2026-11-23T12:40:23.377+00:00 D DONE us=603718650 id=12 r=MAX_RT ce=1 attempts=2 recovered=0 dt=42644 st=1E obs=43 arc=3 plos=4 fifo=01 rxdr=0
+2026-11-23T12:40:23.381+00:00 D RX us=603720502 id=12 len=23 ok=1 pay=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:23.410+00:00 D TX us=603809012 id=13 ce=1 pay=AAF8C42000434E1D04020000000064000000000000010001A0ED
+2026-11-23T12:40:23.414+00:00 D SNAP us=603809463 id=13 attempt=1 age=451 st=0E obs=43 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=4
+2026-11-23T12:40:23.419+00:00 D SNAP us=603810088 id=13 attempt=1 age=1076 st=0E obs=43 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=4
+2026-11-23T12:40:23.424+00:00 D SNAP us=603812170 id=13 attempt=1 age=3158 st=0E obs=40 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=0 plos=4
+2026-11-23T12:40:23.429+00:00 D SNAP us=603816124 id=13 attempt=1 age=7112 st=0E obs=41 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=1 plos=4
+2026-11-23T12:40:23.433+00:00 D SNAP us=603821118 id=13 attempt=1 age=12106 st=0E obs=42 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=4
+2026-11-23T12:40:23.438+00:00 D SNAP us=603826112 id=13 attempt=1 age=17100 st=0E obs=43 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=4
+2026-11-23T12:40:23.443+00:00 D SNAP us=603828610 id=13 attempt=1 age=19598 st=0E obs=43 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=4
+2026-11-23T12:40:23.447+00:00 D ROUND us=603830276 id=13 attempt=1 ce=1 r=MAX_RT dt=21264 st=1E obs=53 arc=3 plos=5 fifo=01 rxdr=0
+2026-11-23T12:40:23.454+00:00 D RETRY us=603830365 id=13 attempt=2 reused_fifo=1 fresh_payload=0 mode=CE_HOLD ce_before=1 ce_after=1 no_ce_edge=1 fifo_before=01 st_after_clear=0E
+2026-11-23T12:40:23.459+00:00 D SNAP us=603830782 id=13 attempt=2 age=417 st=0E obs=53 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=5
+2026-11-23T12:40:23.463+00:00 D SNAP us=603831407 id=13 attempt=2 age=1042 st=0E obs=53 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=5
+2026-11-23T12:40:23.468+00:00 D SNAP us=603833489 id=13 attempt=2 age=3124 st=0E obs=50 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=0 plos=5
+2026-11-23T12:40:23.473+00:00 D SNAP us=603837443 id=13 attempt=2 age=7078 st=0E obs=51 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=1 plos=5
+2026-11-23T12:40:23.477+00:00 D SNAP us=603842437 id=13 attempt=2 age=12072 st=0E obs=52 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=5
+2026-11-23T12:40:23.482+00:00 D SNAP us=603847431 id=13 attempt=2 age=17066 st=0E obs=52 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=2 plos=5
+2026-11-23T12:40:23.486+00:00 D SNAP us=603849929 id=13 attempt=2 age=19564 st=0E obs=53 fifo=01 cfg=0A retr=F3 feat=07 ce=1 arc=3 plos=5
+2026-11-23T12:40:23.491+00:00 D ROUND us=603851595 id=13 attempt=2 ce=1 r=MAX_RT dt=21230 st=1E obs=63 arc=3 plos=6 fifo=01 rxdr=0
+2026-11-23T12:40:23.496+00:00 D DONE us=603851649 id=13 r=MAX_RT ce=1 attempts=2 recovered=0 dt=42637 st=1E obs=63 arc=3 plos=6 fifo=01 rxdr=0
+2026-11-23T12:40:23.504+00:00 D END us=603861840 id=13 reason=COUNT_REACHED sent=3 target=3 ack=0 fail=3 timeout=0 rx=1 round_txds=0 round_maxrt=6 recoveries=3 recovered_acks=0 fifo_error=0 duration_us=330088 ce=0 radio=0 ce_hold=1
+2026-11-23T12:40:23.737+00:00 D STAT us=604135223 id=13 ack=0 fail=3 done=3 timeout=0 recoveries=3 recovered_acks=0 round_maxrt=6 rx=1 rx_all=1 badrx=0 spi_err=0 uart_drop=0 safe=1 active=0 ce=0 sent=3 target=3
+2026-11-23T12:40:23.790+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=463 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:24.286+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=963 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:24.728+00:00 D STAT us=605135264 id=13 ack=0 fail=3 done=3 timeout=0 recoveries=3 recovered_acks=0 round_maxrt=6 rx=1 rx_all=1 badrx=0 spi_err=0 uart_drop=0 safe=1 active=0 ce=0 sent=3 target=3
+2026-11-23T12:40:24.782+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=1463 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:25.277+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=1963 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:25.720+00:00 D STAT us=606135306 id=13 ack=0 fail=3 done=3 timeout=0 recoveries=3 recovered_acks=0 round_maxrt=6 rx=1 rx_all=1 badrx=0 spi_err=0 uart_drop=0 safe=1 active=0 ce=0 sent=3 target=3
+2026-11-23T12:40:25.773+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=2463 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:26.269+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=2963 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:26.711+00:00 D STAT us=607135347 id=13 ack=0 fail=3 done=3 timeout=0 recoveries=3 recovered_acks=0 round_maxrt=6 rx=1 rx_all=1 badrx=0 spi_err=0 uart_drop=0 safe=1 active=0 ce=0 sent=3 target=3
+2026-11-23T12:40:26.764+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=3463 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:27.260+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=3963 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:27.702+00:00 D STAT us=608135389 id=13 ack=0 fail=3 done=3 timeout=0 recoveries=3 recovered_acks=0 round_maxrt=6 rx=1 rx_all=1 badrx=0 spi_err=0 uart_drop=0 safe=1 active=0 ce=0 sent=3 target=3
+2026-11-23T12:40:27.755+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=4463 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:28.251+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=4963 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:28.693+00:00 D STAT us=609135431 id=13 ack=0 fail=3 done=3 timeout=0 recoveries=3 recovered_acks=0 round_maxrt=6 rx=1 rx_all=1 badrx=0 spi_err=0 uart_drop=0 safe=1 active=0 ce=0 sent=3 target=3
+2026-11-23T12:40:28.747+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=5464 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:29.242+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=5964 reply=BBF8C42000434E1D0434170100000000000000000095ED
+2026-11-23T12:40:29.684+00:00 D STAT us=610135472 id=13 ack=0 fail=3 done=3 timeout=0 recoveries=3 recovered_acks=0 round_maxrt=6 rx=1 rx_all=1 badrx=0 spi_err=0 uart_drop=0 safe=1 active=0 ce=0 sent=3 target=3
+2026-11-23T12:40:29.738+00:00 S v=4 session=0 seq=0 armed=0 radio=0 fault=8 host_ms=999999 link_ms=999999 ack=0 fail=3 rx=1 badrx=0 reject=0 uart=0 spi=0 diag=8 safe=1 active=0 drop=0 f=0 t=0 blade=0 cruise=0 light=0 engine=2 adjust=0 estop=1 can_arm=0 stop_rx=1 rx_ms=6464 reply=BBF8C42000434E1D0434170100000000000000000095ED
+#host_stop=2026-11-23T12:40:30.175+00:00 records=86
